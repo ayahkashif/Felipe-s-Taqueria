@@ -8,4 +8,4 @@ Preliminary model of a kiosk. <br/><br/>
 - Showcases total price with specific format when finishing ordering.<br/><br/>
 
 ## 🍽️ Demo
-<img src="" width="">
+<img src="https://github.com/ayahkashif/Felipe-s-Taqueria/blob/main/demo.png" width="442">
